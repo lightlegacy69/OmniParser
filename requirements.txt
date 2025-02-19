@@ -13,10 +13,10 @@ gradio
 dill
 accelerate
 timm
-einops==0.8.0
+einops
 paddlepaddle
 paddleocr
-ruff==0.6.7
+ruff
 pre-commit==3.8.0
 pytest==8.3.3
 pytest-asyncio==0.23.6
